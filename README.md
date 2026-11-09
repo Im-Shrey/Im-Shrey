@@ -5,7 +5,17 @@
 
 - 🔭 I’m currently working on [Expense Tracker](https://github.com/Im-Shrey/expense-tracker.git)
 
+- 🌱 I’m currently learning **Django and Accuracy of AI**
+
 - 👨‍💻 Do visit my project [Personal Notes](https://personal-notes-app-eaca5.web.app/)
+
+- 👨‍💻 All of my projects are available at [https://im-shrey.github.io/my-portfolio/](https://im-shrey.github.io/my-portfolio/)
+
+- 📫 How to reach me **shreypandya1301@gmail.com**
+
+- 📄 Know about my experiences [https://im-shrey.github.io/my-portfolio/assets/documents/Shrey-Pandya-CV-2026.pdf](https://im-shrey.github.io/my-portfolio/assets/documents/Shrey-Pandya-CV-2026.pdf)
+
+- ⚡ Fun fact **I love doing meditation (so I am very focused 👀)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
