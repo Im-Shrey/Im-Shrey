@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **shreypandya1301@gmail.com**
 
-- 📄 Know about my experiences [https://im-shrey.github.io/my-portfolio/assets/documents/Shrey-Pandya-CV-2026.pdf](https://im-shrey.github.io/my-portfolio/assets/documents/Shrey-Pandya-CV-2026.pdf)
+- 📄 Know about my experiences [https://im-shrey.github.io/my-portfolio/assets/documents/Shrey-Pandya-CV.pdf](https://im-shrey.github.io/my-portfolio/assets/documents/Shrey-Pandya-CV.pdf)
 
 - ⚡ Fun fact **I love doing meditation (so I am very focused 👀)**
 
